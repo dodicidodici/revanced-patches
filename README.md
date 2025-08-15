@@ -1,5 +1,4 @@
 <p align="center">
-  
   <picture>
     <source
       width="256px"
