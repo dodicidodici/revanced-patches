@@ -1,3 +1,10 @@
+## [5.33.1](https://github.com/dodicidodici/revanced-patches/compare/v5.33.0...v5.33.1) (2025-08-15)
+
+
+### Bug Fixes
+
+* **Sync for Reddit - Spoof package info:** fix auth ([09724cd](https://github.com/dodicidodici/revanced-patches/commit/09724cd55c6cd5e7c7ddefbd046681a7617f69fe))
+
 # [5.33.0](https://github.com/ReVanced/revanced-patches/compare/v5.32.0...v5.33.0) (2025-08-05)
 
 
