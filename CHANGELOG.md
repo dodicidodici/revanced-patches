@@ -1,3 +1,10 @@
+## [5.33.2](https://github.com/dodicidodici/revanced-patches/compare/v5.33.1...v5.33.2) (2025-08-15)
+
+
+### Bug Fixes
+
+* **Sync:** force ci my god ([811d606](https://github.com/dodicidodici/revanced-patches/commit/811d6062056f828432463285a0744517990a7f4e))
+
 ## [5.33.1](https://github.com/dodicidodici/revanced-patches/compare/v5.33.0...v5.33.1) (2025-08-15)
 
 
