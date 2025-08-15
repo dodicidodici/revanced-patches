@@ -19,7 +19,7 @@ val spoofClientPatch = spoofClientPatch(
         // Redirects from SSL to WWW domain are bugged causing auth problems.
         // Manually rewrite the URLs to fix this.
         replaceStringPatch("ssl.reddit.com", "www.reddit.com"),
-        replaceStringPatch("oauth.reddit.com", "www.reddit.com")
+        replaceStringPatch("oauth.reddit.com", "www.reddit.com")    // pls work
     )
 
     compatibleWith(
